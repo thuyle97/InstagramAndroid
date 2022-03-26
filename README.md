@@ -29,6 +29,9 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/xazVRekNNE.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+Back4App after "Submit" the post
+<img width="1257" alt="Screen Shot 2022-03-25 at 9 53 25 PM" src="https://user-images.githubusercontent.com/67810546/160225251-c6f034a5-e86d-4817-8f68-f26aefd5c8ed.png">
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
